@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-const api_base = 'mongodb+srv://merntodo:merntodo13@cluster0.l6jnwhe.mongodb.net/?retryWrites=true&w=majority';
+const api_base = 'http://localhost:3001';
 
 function App() {
 	const [todos, setTodos] = useState([]);
