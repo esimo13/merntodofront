@@ -22,7 +22,7 @@ A full-stack Todo application built with the MERN stack (MongoDB, Express.js, Re
 
 | Dashboard | Add Todo | Edit Todo |
 |----------|----------|-----------|
-| ![dashboard](assets/dashboard.png) | ![add](assets/add.png) | ![edit](assets/edit.png) |
+| ![dashboard](assets/home.png) | ![add](assets/add.png) | ![edit](assets/done.png) |
 
 
 
